@@ -1,2 +1,4 @@
 # Hi-CO
-Codes for analyzing Hi-CO data 
+3D genome structure analysis with nucleosome resolution 
+
+Contents
