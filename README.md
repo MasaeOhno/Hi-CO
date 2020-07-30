@@ -16,7 +16,7 @@ Hi-CO matrix
   
 Initial structure for simulation
 - Install gfortran.
-- Download "Generate_Model.zip" and unzip.
+- Download "Generate_initial_model".
 - The following command line is used to generate an array of the nucleosome particles.
   1)  gfortran genini.f90 -o genini.exe
   2)  ./genini.exe <N>
