@@ -11,7 +11,7 @@
 Hi-CO matrix 
 - Install LabVIEW and Vision Development Module from National Instruments.
 - Download "Create_Hi-COmatrix".
-- Input locations and names of the Read1 and Read2 files (.sam) to "HiC sam file path 1" and "HiC sam file path 2".
+- Input locations and names of the Read1 and Read2 files (.sam) to "SAM file path 1" and "SAM file path 2".
 - Run
   
 Initial structure for simulation
