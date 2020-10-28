@@ -1,4 +1,0 @@
-1) gfortran genini.f90 -o genini.exe
-2) ./genini.exe <N>
-	where <N> is the number of nucleosomes
-3) You will find an out.pqr file, which can be visualized by VMD, UCSF chimera, etc.
