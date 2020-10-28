@@ -16,15 +16,3 @@ Hi-CO matrix
 5. Input a list of nucleosome numbers in every chromosome to "nucleosome number", and a list of base pair length of every chromosome to "chromosome length base", and select "Edit/Make current values default".
 6. Run.
 
-  
-Initial structure for simulation
-1. Install gfortran.
-2. Download "Generate_initial_model".
-3. The following command line is used to generate an array of the nucleosome particles. `<N>` is the number of nucleosomes.
-```
-gfortran genini.f90 -o genini.exe
-```
-```
-./genini.exe <N>
-```
-4. The putput is "out.pqr", which can be visualized by VMD, UCSF chimera, etc.
